@@ -133,7 +133,7 @@
         <span>|</span>
         <a href="privacy.html" title="Learn about privacy policies">Privacy</a>
         <span>|</span>
-        <a href="terms" title="Learn about terms & conditions">Terms</a>
+        <a href="terms.html" title="Learn about terms & conditions">Terms</a>
         <?php include "serverstuff/copyright.php" ?>
     </div>
     <script>
