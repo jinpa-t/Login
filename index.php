@@ -29,8 +29,9 @@
             // echo "hello admin";         
             $_SESSION["admin"] = $name;
             $_SESSION["loggedin"] = true;
-            
-            header("location: https://login.jtsering.repl.co/serverstuff/welcome_admin.php");
+            header("location: serverstuff/welcome_admin.php");
+            echo "what";
+          
         }
     }
 ?>
