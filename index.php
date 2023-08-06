@@ -113,6 +113,7 @@
         </div>
         <input class="btn btn-default" name="submit" type="submit" value="Sign In">        
     </form>
+      <span>New user? <a href="signup.php"> Signup</a></span>
     </div>
     <div id="demo-tip">
         <button id="demo-close-btn">x</button>
